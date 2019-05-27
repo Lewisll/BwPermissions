@@ -65,7 +65,7 @@ public class MainActivity extends Activity implements BwPermissions.RationaleCal
     }
 }
 ```
-**具体使用可以参考demo。**
+**具体使用可以参考BwPermissions/app。**
 
 
   [1]: https://github.com/googlesamples/easypermissions
